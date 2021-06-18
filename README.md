@@ -11,11 +11,11 @@
 
 можете написать такие данные
 
-email:test@gmail.com
+email:**test@gmail.com**
 
-fullname:Test Test
+fullname:**Test Test**
 
-password:$2y$12$Mfd3bM8Ym/DQ5HAaNQTzwOWuEab9QglW9odghzhsXgg8WZ0rBAF/u
+password:**$2y$12$Mfd3bM8Ym/DQ5HAaNQTzwOWuEab9QglW9odghzhsXgg8WZ0rBAF/u**
 
 в пароле обьязательно нужно убедиться что нету символа пробела в конце(чтобы пароль заканчивался на символ "u")
 
